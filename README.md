@@ -8,11 +8,8 @@ Instalar:
 - pip install pip install bs4
 
 Uso: 
-python devmedia.py <login> <senha>
-  
-Exemplo de execução:
-
 <pre>
+
 python olhardigital.py
 
 </pre>
